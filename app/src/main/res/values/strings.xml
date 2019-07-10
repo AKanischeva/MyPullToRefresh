@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="weather_in_london_gb">Weather in London, GB</string>
+    <string name="txt_wind">Wind</string>
+    <string name="txt_pressure">Pressure</string>
+    <string name="txt_humidity">Humidity</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
